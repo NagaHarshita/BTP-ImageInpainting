@@ -5,7 +5,7 @@
 
 ### Dataset links
 ```
-Places 2: https://www.kaggle.com/mittalshubham/images256
+Places 2: [https://www.kaggle.com/mittalshubham/images256](https://www.kaggle.com/mittalshubham/images256)
 
 Consists of images at different sizes 64 * 64, 128 * 128, 256 * 256
 
@@ -22,7 +22,7 @@ jupyter notebook CNNApproach/CNN_Inpaint.ipynb
 
 ### Dataset links
 ```
-Celeba dataset: https://www.kaggle.com/marupakanagaharshita/custom 
+Celeba dataset: [https://www.kaggle.com/marupakanagaharshita/custom](https://www.kaggle.com/marupakanagaharshita/custom)
 
 Consists of images at size 114 * 114. Created a random rectangular mask for each image during training. 
 ```
@@ -30,7 +30,7 @@ Consists of images at size 114 * 114. Created a random rectangular mask for each
 ## 3. Model Checkpoints
 
 ```
-Drive Link for Model Checkpoints: https://drive.google.com/drive/folders/1OnXiTjIxYYrsfTB7cVV59QvDxhrtHFtM?usp=sharing
+Drive Link for Model Checkpoints: [https://drive.google.com/drive/folders/1OnXiTjIxYYrsfTB7cVV59QvDxhrtHFtM?usp=sharing](https://drive.google.com/drive/folders/1OnXiTjIxYYrsfTB7cVV59QvDxhrtHFtM?usp=sharing)
 ```
 
 ### Instructions to run the files 
