@@ -15,7 +15,7 @@ Mask Dataset: Trained with random free-form mask and random rectangular block.
 ### Instructions to run the files 
 
 ```
-jupyter notebook Inpaint.ipynb
+jupyter notebook CNNApproach/CNN_Inpaint.ipynb
 ```
 
 ## 2. Image Inpainting using Transformer GAN
@@ -31,10 +31,10 @@ Consists of images at size 114 * 114. Created a random rectangular mask for each
 ### Instructions to run the files 
 
 ```
-jupyter notebook Inpaint.ipynb
+jupyter notebook TransformerApproach/TransGAN_Inpaint.ipynb
 ```
 
-- They contain the cells with training and testing sections. 
+- They contain the cells with training and testing sections.
 
 ```
 @article{jiang2021transgan,
