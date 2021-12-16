@@ -27,6 +27,11 @@ Celeba dataset: https://www.kaggle.com/marupakanagaharshita/custom
 Consists of images at size 114 * 114. Created a random rectangular mask for each image during training. 
 ```
 
+## 3. Model Checkpoints
+
+```
+Drive Link for Model Checkpoints: https://drive.google.com/drive/folders/1OnXiTjIxYYrsfTB7cVV59QvDxhrtHFtM?usp=sharing
+```
 
 ### Instructions to run the files 
 
